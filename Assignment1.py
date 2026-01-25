@@ -1,7 +1,7 @@
 # Program Name: Assignment1.py
 # Course: IT3883/Section W01
 # Student Name: Odam Tong
-# Assignment Number: Lab#1
+# Assignment Number: Assignment1
 # Due Date: 01/21/ 2026
 # Purpose: This program is to create a menu
 # that allows the user to add string into a buffer, clear it and then display.

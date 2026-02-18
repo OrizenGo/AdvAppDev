@@ -35,4 +35,4 @@ def calculate_AVG(file_path):
 
 #This is where run the program, but I have to identify the file name 
 # and its path of where I placed the file in my Users directory.
-calculate_AVG("/Users/...")
+calculate_AVG("Assignment2input.txt")
